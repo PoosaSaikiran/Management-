@@ -1,4 +1,4 @@
-# Management1
+Management
 
 f
 f
