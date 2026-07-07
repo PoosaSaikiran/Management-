@@ -1,9 +1,3 @@
-gManagement
-f
-f
-f
-f
-f
-f
-g
+Management
+
  
