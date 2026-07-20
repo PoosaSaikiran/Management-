@@ -1,12 +1,1 @@
 Management
-y
-y
-y
-y
-yy
-yy
-y
-y
-y
-y
-y
