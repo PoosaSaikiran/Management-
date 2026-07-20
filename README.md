@@ -1,15 +1,1 @@
 Management
-i
-i
-i
-J
-J
-J
-JJ
-J
-J
-J
-J
-JJ
-J
-J
